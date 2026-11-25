@@ -6,39 +6,40 @@ La veille technologique consiste à s'informer de manière systématique sur les
 
 ## 🎯 Thématique choisie
 
-> **[Exemple de sujet : L'automatisation de la détection des menaces (EDR/XDR) face aux ransomwares / L'évolution des conteneurs et de Kubernetes en production]**
+> **L'intelligence artificielle dans le développement logiciel**
 
-* **Problématique :** *[Comment les organisations adaptent-elles leurs infrastructures / applications face à cette évolution technologique ?]*
-* **Lien avec mon parcours :** Ce sujet est directement lié à ma spécialité **[SISR / SLAM]** et aux enjeux de cybersécurité abordés durant ma formation.
+* **Problématique :** *Qu'est-ce que l'IA change au métier de développeur : ce qu'elle écrit, ce qu'il faut relire, ce qu'elle coûte en confiance et ce qu'elle déplace dans la façon de travailler ?*
+* **Lien avec mon parcours :** Ce sujet est directement lié à ma spécialité **SLAM** et aux enjeux de cybersécurité abordés durant ma formation.
+* **Rubriques suivies :** Assistants de code · Qualité du code généré · Sécurité · Le métier qui change · Outils et intégration.
 
 ---
 
 ## 🛠️ Méthodologie et Outils de Collecte
 
-Pour assurer un suivi régulier et pertinent, je combine deux approches :
+Ma veille est mise à jour manuellement : chaque information est lue et vérifiée avant d'être retenue. Je classe mes sources en quatre familles :
 
-1. **Méthode « Push » (Alertes automatiques) :**
-   * **Google Alerts :** Alertes hebdomadaires sur les mots-clés ciblés.
-   * **Newsletters spécialisées :** CERT-FR (ANSSI), Le Monde Informatique, IT-Connect.
-2. **Méthode « Pull » (Agrégation de flux RSS & recherche active) :**
-   * **Feedly / Inoreader :** Centralisation des flux RSS de blogs techniques et sites de référence.
-   * **Réseaux professionnels :** Suivi d'experts sur LinkedIn et dépôts GitHub officiels.
+1. **Recherche :** arXiv (prépublications, sans comité de lecture), ACM, IEEE Software, DORA.
+2. **Institutions et enquêtes :** Stack Overflow Developer Survey, JetBrains Developer Ecosystem, NIST, OWASP, ANSSI.
+3. **Presse spécialisée :** IEEE Spectrum, MIT Technology Review, Ars Technica, The Register.
+4. **Sources officielles des éditeurs :** GitHub, OpenAI, Anthropic, Google, JetBrains.
+
+👉 La veille complète est aussi publiée sur mon portfolio : [yanis-haddou.vercel.app/veille](https://yanis-haddou.vercel.app/veille)
 
 ---
 
 ## 📰 Synthèse des Articles et Sources Analysés
 
-### 1. [Titre du premier article ou bulletin]
-* **Date :** *[JJ/MM/AAAA]*
-* **Source :** *[Ex : ANSSI / CERT-FR / IT-Connect]* — [Lien vers l'article](#)
-* **Résumé et analyse :**
-  * *[Synthèse en 2-3 phrases des apports clés de l'article et de son impact concret pour un administrateur ou développeur.]*
+*Aucun article analysé pour l'instant : la veille vient d'être recentrée sur ce sujet. Les premières synthèses seront ajoutées ici.*
 
-### 2. [Titre du deuxième article]
+<!--
+Modèle d'entrée à recopier :
+
+### 1. [Titre de l'article ou du bulletin]
 * **Date :** *[JJ/MM/AAAA]*
-* **Source :** *[Ex : Le Monde Informatique / Korben / Blog officiel]* — [Lien vers l'article](#)
+* **Source :** *[Ex : OWASP / ANSSI / IEEE Software]* — [Lien vers l'article](#)
 * **Résumé et analyse :**
-  * *[Synthèse en 2-3 phrases des apports clés de l'article.]*
+  * *[Synthèse en 2-3 phrases des apports clés de l'article et de son impact concret pour un développeur.]*
+-->
 
 ---
 
